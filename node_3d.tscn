@@ -12,7 +12,7 @@
 [ext_resource type="PackedScene" uid="uid://c8jtmdijrale2" path="res://Club_Mate_pbr.glb" id="10_osuyf"]
 [ext_resource type="Texture2D" uid="uid://p7eb1l74sqep" path="res://Kitch.jpg" id="11_wmarr"]
 [ext_resource type="Script" path="res://jam launch.gd" id="12_bngmk"]
-[ext_resource type="PackedScene" path="res://Jam.tscn" id="13_lax7i"]
+[ext_resource type="PackedScene" uid="uid://bktfuk1dj1gcd" path="res://Jam.tscn" id="13_lax7i"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_d0kkl"]
 sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
